@@ -15,10 +15,15 @@ system integration, and automated software testing.
 <br>
 
 ![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![RViz](https://img.shields.io/badge/RViz-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![micro-ROS](https://img.shields.io/badge/micro--ROS-2EA6C6?style=for-the-badge&logo=ros&logoColor=white)
+![DDS](https://img.shields.io/badge/DDS-005571?style=for-the-badge)
 ![Gazebo](https://img.shields.io/badge/Gazebo-F58113?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 <br>
+
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-FF6F00?style=for-the-badge)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
